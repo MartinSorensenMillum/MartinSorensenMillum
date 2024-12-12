@@ -3,7 +3,7 @@
 Hi there! 🧳
 
 
-This is my work account at **Millum**. 
+This is my work account at **Millum**, proud member of team Mandalorian 🌌 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
 
